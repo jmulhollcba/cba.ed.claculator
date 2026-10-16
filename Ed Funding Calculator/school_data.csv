@@ -1,0 +1,10 @@
+school,program,degree_level,tuition_per_year,room_board_per_year,program_years,median_earnings,earnings_years_after_grad
+Example State University,Computer Science,Bachelor's,11500,12000,4,82000,1
+Example State University,Nursing,Bachelor's,11500,12000,4,74000,1
+Example State University,Psychology,Bachelor's,11500,12000,4,42000,1
+Example State University,Mechanical Engineering,Bachelor's,11500,12000,4,72000,1
+Sample Private College,Computer Science,Bachelor's,52000,15000,4,88000,1
+Sample Private College,Business Administration,Bachelor's,52000,15000,4,62000,1
+Sample Private College,English,Bachelor's,52000,15000,4,40000,1
+Demo Tech Institute,Electrical Engineering,Bachelor's,38000,14000,4,85000,1
+Demo Tech Institute,Data Science,Master's,42000,14000,2,105000,1
